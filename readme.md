@@ -4,5 +4,5 @@ O projeto foi contruído em laravel 5.4.
 	*composer install
 	*cp .env.example
 	* php artisan key:generate
-- Criar banco e rodar php artisan migrate --seed
+- Criar banco setar as configs do DB no env e rodar php artisan migrate --seed
 - para rodar: php artisan serve
